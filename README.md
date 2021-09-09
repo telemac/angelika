@@ -10,4 +10,4 @@ git clone https://github.com/telemac/angelika.git
 cd angelika
 ```
 
-- [Les fonctions](2-fonctions/README.md)
+- [Les fonctions](2-fonctions/)
